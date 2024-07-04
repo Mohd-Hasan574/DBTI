@@ -1,0 +1,106 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.header{
+    height: 11vh;
+    width: auto;
+    /* background-color: #ffffff; */
+    padding: 0px;
+    margin: -5px;
+    display: flex;
+    flex-direction: row;
+    background-color: rgb(23, 119, 209);
+    align-items: center;
+    
+}
+.header_1{
+   height: 8vh;
+   width: auto;
+   background-color: #ffffff;
+   padding: 0px;
+   margin: -5px;
+   display: flex;
+   flex-direction: row;
+   /* background-color: rgb(101, 162, 219); */
+   align-items: center;
+   border: none;
+}
+div>img{
+    height: 5vh;
+    width: 15vw;
+    display:flex;
+    margin-top: 6px;
+    margin-left: 100px;
+    /* color: #ffffff; */
+}
+
+.More{
+   width: 6vw;
+}
+
+
+.box{
+    margin-top: 18px;
+    /* margin-left: 55px; */
+    font-size: 17 ;
+}
+
+
+.box>input{
+    height: 20px;
+    width: 35vw;
+}
+
+
+
+ #Login{
+    margin-left: 45px;
+    height: 4vh;
+    margin-top: 20px;
+ }
+
+
+
+ .CART{
+    margin-left: 22px;
+    margin-top: 20px;
+ }
+
+
+ .CART>input{
+    height: 4vh;
+    width: 6vw;
+ }
+
+
+ .button{
+    margin-left: 22px;
+    margin-top: 20px;
+ }
+
+
+ .button>input{
+    height: 4vh;
+    width: 8vw;
+ }
+
+
+
+
+ #More{
+    height: 4vh;
+    width: 4vw;
+    margin-top: 27px;
+    margin-left: 28px;
+    align-items: center;
+    /* background-color: beige; */
+    border: none;
+ }
+ #fixing{
+border: none;
+ }
+/* 
+ #More:hover{
+   transform: scale(1.2)
+ } */
